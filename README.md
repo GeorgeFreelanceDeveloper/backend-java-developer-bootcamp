@@ -15,9 +15,45 @@ After following all the instructions above, you can start applying for the entry
 
 Note: remember to make a lot of projects while you are learning to solidify your understanding of the concepts. Also, it's important to have the attitude of continuous learning to improve your skills and be prepared for the fast-paced technology evolution in the industry.
 
-## Content
-* [Java advance](pages/javaAdvance.md)
+## Roadmap
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd08cfd97-747e-4050-b742-bdc4a60ac865_1200x1278.gif)
 
-## Freelance Java developer market place
+## Content
+
+### Java
+* [Linux](pages/linux.md)
+* [Git](pages/git.md)
+* [IDE](pages/ide.md)
+* [Java core](pages/core.md)
+* [Collections](pages/collections.md)
+* [Java advance](pages/javaAdvance.md)
+* [Exception handling](pages/exceptionHandling.md)
+* [Stream & functional programming](pages/streamAndFunctionalProgramming.md)
+* [Testing](pages/testing.md)
+* [Databases](pages/databases.md)
+* [Clean code](pages/cleanCode.md)
+* [Logging](pages/logging.md)
+* [Multi Threading](pages/multiThreading.md)
+* [Build tools](pages/buildTools.md)
+* [Http](pages/http.md)
+
+### Spring framework
+* [Building a REST API with Spring Boot](https://spring.academy/courses/building-a-rest-api-with-spring-boot)
+* [Spring framework essentials](https://spring.academy/courses/spring-framework-essentials)
+* [Spring boot](https://spring.academy/courses/spring-boot)
+* [Securing a REST API with OAuth 2.0](https://spring.academy/courses/spring-academy-secure-rest-api-oauth2)
+* [Building a Batch Application with Spring Batch](https://spring.academy/courses/building-a-batch-application-with-spring-batch)
+
+### Freelancer/contractor path
+* [Price creation](https://mladypodnikatel.cz/na-volne-noze/cenotvorba)
+* [Marketing](https://mladypodnikatel.cz/na-volne-noze/osobni-marketing)
+* [Work habits](https://mladypodnikatel.cz/na-volne-noze/procesy-freelanceru)
+* [Personal brand](https://mladypodnikatel.cz/na-volne-noze/osobni-znacka)
+* [Create online products](https://mladypodnikatel.cz/tvorba-on-line-produktu)
+* [Start as freelancer](https://mladypodnikatel.cz/na-volne-noze/zacatky)
+* [Create digital agency](https://mladypodnikatel.cz/agentury/zalozeni)
+* [Customer acquisition](https://mladypodnikatel.cz/na-volne-noze/jak-ziskat-klienty)
+
+## Freelance Java developers market place
 * [Toptal.com](https://www.toptal.com/java)
 * [freelance.cz](https://www.freelance.cz/)
