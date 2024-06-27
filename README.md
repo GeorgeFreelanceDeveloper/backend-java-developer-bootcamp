@@ -16,7 +16,7 @@ After following all the instructions above, you can start applying for the entry
 Note: remember to make a lot of projects while you are learning to solidify your understanding of the concepts. Also, it's important to have the attitude of continuous learning to improve your skills and be prepared for the fast-paced technology evolution in the industry.
 
 ## Roadmap
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd08cfd97-747e-4050-b742-bdc4a60ac865_1200x1278.gif)
+![](resources/javaDeveloperRoadmap.gif)
 
 ## Content
 
