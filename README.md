@@ -25,7 +25,7 @@ Note: remember to make a lot of projects while you are learning to solidify your
 * [Git](pages/git.md)
 * [IDE](pages/ide.md)
 * [Java core](pages/core.md)
-* [Collections](pages/collections.md)
+* [Java Data Structures - Collections](pages/collections.md)
 * [Java advance](pages/javaAdvance.md)
 * [Exception handling](pages/exceptionHandling.md)
 * [Stream & functional programming](pages/streamAndFunctionalProgramming.md)
